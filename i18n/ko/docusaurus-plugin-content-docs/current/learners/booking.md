@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: 레슨 예약
+description: "Loka에서 레슨을 예약하는 방법. 가능한 시간 확인, 서비스 선택, Stripe로 안전하게 결제."
 ---
 
 # 수업 예약

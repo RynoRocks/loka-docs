@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: 生徒の管理
+description: "Lokaでの生徒管理。プロフィール確認、学習履歴の追跡、在籍管理、進捗レビュー。"
 ---
 
 # 生徒の管理

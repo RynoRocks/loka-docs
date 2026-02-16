@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Create Your Free Trial Account
+description: "Start a 14-day free trial of Loka with 1 educator seat and 1 learner test seat. No credit card required. Set up in minutes."
 ---
 
 # Create Your Free Trial Account

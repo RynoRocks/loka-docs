@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Platform Settings
+description: "Configure your Loka Creator school — branding, booking page, services, payment settings, calendar integration, and notifications."
 ---
 
 # Platform Settings

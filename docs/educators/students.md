@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Managing Students
+description: "View student profiles, track learning history, manage enrolments, and review progress across all your Loka learners."
 ---
 
 # Managing Students

@@ -2,6 +2,7 @@
 slug: /
 sidebar_position: 1
 title: Welcome to Loka
+description: "Loka is a learning management system for language educators. Manage students, deliver lessons, and get paid from one platform."
 ---
 
 # Welcome to Loka

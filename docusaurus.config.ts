@@ -23,9 +23,9 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en', 'ja', 'ko'],
     localeConfigs: {
-      en: { label: 'English' },
-      ja: { label: '日本語' },
-      ko: { label: '한국어' },
+      en: { label: 'English', htmlLang: 'en-AU' },
+      ja: { label: '日本語', htmlLang: 'ja' },
+      ko: { label: '한국어', htmlLang: 'ko' },
     },
   },
 
@@ -52,6 +52,9 @@ const config: Config = {
           routeBasePath: '/',
         },
         blog: false,
+        sitemap: {
+          ignorePatterns: ['/search', '/ja/search', '/ko/search'],
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -61,6 +64,9 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/logo.png',
+    metadata: [
+      { property: 'og:type', content: 'website' },
+    ],
     colorMode: {
       defaultMode: 'light',
       respectPrefersColorScheme: true,

@@ -2,6 +2,7 @@
 slug: /
 sidebar_position: 1
 title: Lokaへようこそ
+description: "Lokaは語学エデュケーター向けの学習管理システム。生徒管理、レッスン進行、決済をひとつのプラットフォームで。"
 ---
 
 # Lokaへようこそ

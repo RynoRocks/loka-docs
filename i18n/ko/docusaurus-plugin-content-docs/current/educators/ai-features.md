@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: AI 기능
+description: "Loka의 AI 기능 가이드. API 키로 수업 준비, 실시간 제안, 수업 후 피드백을 활용하세요."
 ---
 
 # AI 기반 기능

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Progress Tracking
+description: "Track your language learning progress on Loka. Review session history, Living Canvas notes, and Active Recall Pair mastery."
 ---
 
 # Progress Tracking

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: スケジュールの設定
+description: "Lokaのスケジュール設定ガイド。週間の空き時間、Googleカレンダー連携、タイムゾーン管理。"
 ---
 
 # スケジュールの設定

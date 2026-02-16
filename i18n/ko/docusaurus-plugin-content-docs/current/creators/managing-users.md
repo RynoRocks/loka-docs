@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 교육자 및 학습자 관리
+description: "Loka Creator 학교에 교육자와 학습자를 추가하세요. 역할, 권한, 좌석 할당 관리 방법."
 ---
 
 # 교육자 및 학습자 관리

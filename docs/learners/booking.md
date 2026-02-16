@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Booking Lessons
+description: "Book language lessons on Loka. Browse available times, select a service, pay securely with Stripe, and manage your bookings."
 ---
 
 # Booking Lessons

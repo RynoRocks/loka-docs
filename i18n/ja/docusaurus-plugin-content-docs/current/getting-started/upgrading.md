@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: プランのアップグレード
+description: "Loka Creatorプランの比較 — DIY、Done-For-You、Aspire。各プランの内容とアップグレード方法。"
 ---
 
 # プランのアップグレード

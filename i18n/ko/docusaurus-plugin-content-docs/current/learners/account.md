@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: 계정 설정
+description: "Loka 학습자 계정 관리. 프로필, 알림 설정, 타임존, 연동 서비스를 업데이트하세요."
 ---
 
 # 계정 설정

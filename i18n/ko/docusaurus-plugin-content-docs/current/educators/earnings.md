@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: 수익 및 결제
+description: "Loka에서 수업 수익을 추적하고 결제를 관리하세요. Stripe를 통한 정산 방법을 안내합니다."
 ---
 
 # 수익 및 결제

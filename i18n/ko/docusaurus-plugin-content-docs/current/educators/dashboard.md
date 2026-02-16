@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: 대시보드 개요
+description: "Loka 교육자 대시보드 사용법. 스케줄, 세션, 수익, 학생 관리를 한 곳에서 확인하세요."
 ---
 
 # 대시보드 개요

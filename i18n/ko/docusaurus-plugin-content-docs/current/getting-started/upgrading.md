@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 플랜 업그레이드
+description: "Loka Creator 플랜 비교 — DIY, Done-For-You, Aspire. 각 플랜 내용과 업그레이드 방법."
 ---
 
 # 플랜 업그레이드

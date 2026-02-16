@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: エデュケーターとラーナーの管理
+description: "Loka Creatorスクールへのエデュケーター・ラーナーの追加。役割、権限、シート割り当ての管理。"
 ---
 
 # エデュケーターとラーナーの管理

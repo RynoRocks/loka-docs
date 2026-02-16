@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Living Canvasの使い方
+description: "Living Canvasの使い方 — レッスン中の添削、語彙、メモをリアルタイムで記録・共有するホワイトボード。"
 ---
 
 # Living Canvasの使い方

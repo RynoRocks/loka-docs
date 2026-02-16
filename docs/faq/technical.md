@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Technical FAQ
+description: "Technical FAQ for Loka — supported browsers, mobile access, API keys, calendar sync, data export, and troubleshooting tips."
 ---
 
 # Technical FAQ

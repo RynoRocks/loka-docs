@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Dashboard Overview
+description: "Tour the Loka educator dashboard. Access your schedule, sessions, earnings, student management, and settings from one central hub."
 ---
 
 # Dashboard Overview

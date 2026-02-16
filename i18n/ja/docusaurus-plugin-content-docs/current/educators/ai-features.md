@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: AI搭載機能
+description: "LokaのAI機能ガイド。APIキーを使ったレッスン準備支援、リアルタイム提案、セッション後フィードバック。"
 ---
 
 # AI搭載機能

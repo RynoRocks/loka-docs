@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 결제 및 구독
+description: "Loka Creator 결제 및 구독. 플랜 요금, 좌석 가격, Stripe 연동, 구독 관리 방법을 안내합니다."
 ---
 
 # 결제 및 구독

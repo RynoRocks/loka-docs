@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Managing Educators & Learners
+description: "Add educators and learners to your Loka Creator school. Manage roles, permissions, seat assignments, and team invitations."
 ---
 
 # Managing Educators & Learners

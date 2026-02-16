@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Loka Creator 개요
+description: "Loka Creator로 언어 교육 비즈니스를 구축하세요. 교육자, 학습자, 서비스, 결제를 통합 관리."
 ---
 
 # Loka Creator 개요

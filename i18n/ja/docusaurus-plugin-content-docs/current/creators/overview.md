@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Loka Creatorの概要
+description: "Loka Creatorで語学教育ビジネスを構築。エデュケーター、ラーナー、サービス、請求を一元管理。"
 ---
 
 # Loka Creatorの概要

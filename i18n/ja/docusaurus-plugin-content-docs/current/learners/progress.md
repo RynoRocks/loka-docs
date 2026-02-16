@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 進捗の確認
+description: "Lokaでの学習進捗確認。セッション履歴、Living Canvasメモ、ARPの習熟度をレビュー。"
 ---
 
 # 進捗の追跡

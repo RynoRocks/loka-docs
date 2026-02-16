@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: レッスン教材と録音
+description: "Lokaのレッスン教材にアクセス。Canvas PDF、MP3音声、セッション録音のダウンロード方法。"
 ---
 
 # レッスン教材と録音

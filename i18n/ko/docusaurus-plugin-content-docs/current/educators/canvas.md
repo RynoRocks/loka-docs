@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Living Canvas 사용법
+description: "Living Canvas 사용법 — 수업 중 교정, 어휘, 노트를 실시간으로 기록하고 공유하는 화이트보드."
 ---
 
 # Living Canvas 사용법

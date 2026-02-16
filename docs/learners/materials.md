@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Lesson Materials & Recordings
+description: "Access your lesson materials on Loka — Living Canvas exports, PDF downloads, MP3 audio, and session recordings."
 ---
 
 # Lesson Materials & Recordings

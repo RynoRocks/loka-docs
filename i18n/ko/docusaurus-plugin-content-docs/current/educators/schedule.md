@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 스케줄 설정
+description: "Loka 스케줄 설정 가이드. 주간 가능 시간, Google 캘린더 연동, 타임존 관리 방법."
 ---
 
 # 스케줄 설정

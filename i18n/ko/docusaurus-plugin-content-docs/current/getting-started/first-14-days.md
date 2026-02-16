@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 첫 14일
+description: "Loka 무료 체험 기간을 최대한 활용하는 14일 가이드. 프로필 설정부터 첫 수업까지."
 ---
 
 # 처음 14일

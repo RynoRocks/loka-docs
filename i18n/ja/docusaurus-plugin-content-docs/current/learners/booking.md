@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: レッスンの予約
+description: "Lokaでのレッスン予約方法。空き時間の確認、サービス選択、Stripeでの安全な支払い。"
 ---
 
 # レッスンの予約

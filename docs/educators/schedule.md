@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Setting Up Your Schedule
+description: "Configure your weekly availability, connect Google Calendar, set buffer times, and manage time zones in Loka's scheduling system."
 ---
 
 # Setting Up Your Schedule

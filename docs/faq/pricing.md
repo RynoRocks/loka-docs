@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Pricing & Billing FAQ
+description: "Frequently asked questions about Loka pricing, free trials, plan upgrades, educator seats, learner seats, and payment processing."
 ---
 
 # Pricing & Billing FAQ

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 請求とサブスクリプション
+description: "Loka Creatorの請求とサブスクリプション。プラン、シート料金、Stripe連携、サブスクリプション管理。"
 ---
 
 # 課金とサブスクリプション

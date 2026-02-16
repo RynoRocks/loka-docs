@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 레슨 자료 및 녹음
+description: "Loka 레슨 자료에 접근하세요. Canvas PDF, MP3 오디오, 세션 녹음 다운로드 방법을 안내합니다."
 ---
 
 # 수업 자료 및 녹음

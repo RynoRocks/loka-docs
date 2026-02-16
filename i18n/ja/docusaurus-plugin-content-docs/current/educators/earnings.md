@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: 収益と支払い
+description: "Lokaでの収益追跡と支払い管理。レッスン収益の確認、Stripe経由の入金方法について。"
 ---
 
 # 収益と支払い

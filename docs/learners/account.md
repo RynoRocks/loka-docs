@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Account Settings
+description: "Manage your Loka learner account. Update your profile, notification preferences, time zone, and connected services."
 ---
 
 # Account Settings

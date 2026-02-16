@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: 요금 및 결제 FAQ
+description: "Loka 요금에 대한 자주 묻는 질문. 무료 체험, 플랜, 좌석 요금, 결제에 대한 FAQ."
 ---
 
 # 가격 및 결제 FAQ

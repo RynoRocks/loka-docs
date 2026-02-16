@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: 料金と請求に関するFAQ
+description: "Lokaの料金に関するよくある質問。無料トライアル、プラン、シート料金、決済についてのFAQ。"
 ---
 
 # 料金＆課金FAQ

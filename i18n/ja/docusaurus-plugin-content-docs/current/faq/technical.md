@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 技術に関するFAQ
+description: "Lokaの技術に関するFAQ。対応ブラウザ、モバイル、APIキー、カレンダー同期、データエクスポート。"
 ---
 
 # テクニカルFAQ

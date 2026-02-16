@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Using the Living Canvas
+description: "Learn how to use Loka's Living Canvas — the real-time whiteboard for capturing corrections, vocabulary, and notes during lessons."
 ---
 
 # Using the Living Canvas

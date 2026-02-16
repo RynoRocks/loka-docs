@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 학습 진도 확인
+description: "Loka에서 학습 진도를 확인하세요. 세션 이력, Living Canvas 노트, ARP 숙달도 리뷰."
 ---
 
 # 진도 추적

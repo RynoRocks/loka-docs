@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 기술 FAQ
+description: "Loka 기술 FAQ. 지원 브라우저, 모바일, API 키, 캘린더 연동, 데이터 내보내기 안내."
 ---
 
 # 기술 FAQ

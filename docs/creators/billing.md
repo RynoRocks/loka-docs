@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Billing & Subscriptions
+description: "Understand Loka Creator billing — plan tiers, educator seats, learner seats, Stripe integration, and subscription management."
 ---
 
 # Billing & Subscriptions

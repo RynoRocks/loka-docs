@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Your First 14 Days
+description: "A day-by-day guide to getting the most from your Loka free trial. Set up your profile, schedule, services, and teach your first lesson."
 ---
 
 # Your First 14 Days

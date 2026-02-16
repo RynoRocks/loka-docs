@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Upgrading Your Plan
+description: "Compare Loka Creator plans — DIY, Done-For-You, and Aspire. Learn what each tier includes and how to upgrade from your free trial."
 ---
 
 # Upgrading Your Plan

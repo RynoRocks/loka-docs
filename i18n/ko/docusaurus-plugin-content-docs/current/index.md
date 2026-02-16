@@ -2,6 +2,7 @@
 slug: /
 sidebar_position: 1
 title: Loka에 오신 것을 환영합니다
+description: "Loka는 언어 교육자를 위한 학습 관리 시스템입니다. 학생 관리, 수업 진행, 결제를 하나의 플랫폼에서."
 ---
 
 # Loka에 오신 것을 환영합니다

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search
+
+Sitemap: https://docs.lokalingo.com/sitemap.xml
+Sitemap: https://docs.lokalingo.com/ja/sitemap.xml
+Sitemap: https://docs.lokalingo.com/ko/sitemap.xml

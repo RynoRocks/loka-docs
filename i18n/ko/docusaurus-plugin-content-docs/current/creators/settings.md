@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: 플랫폼 설정
+description: "Loka Creator 학교 설정. 브랜딩, 예약 페이지, 서비스, 결제, 캘린더 연동 방법을 안내합니다."
 ---
 
 # 플랫폼 설정

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: プラットフォーム設定
+description: "Loka Creatorスクールの設定。ブランディング、予約ページ、サービス、決済、カレンダー連携。"
 ---
 
 # プラットフォーム設定

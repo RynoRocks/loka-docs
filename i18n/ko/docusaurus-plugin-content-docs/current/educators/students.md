@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: 학생 관리
+description: "Loka에서 학생을 관리하세요. 프로필 확인, 학습 이력 추적, 등록 관리, 진도 검토 방법."
 ---
 
 # 학생 관리

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Loka Creator Overview
+description: "Loka Creator lets you build a branded language teaching business. Manage educators, learners, services, and billing in one place."
 ---
 
 # Loka Creator Overview

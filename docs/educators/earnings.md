@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: Earnings & Payments
+description: "Track your lesson earnings, view payment history, and understand how Stripe payouts work for Loka educators."
 ---
 
 # Earnings & Payments

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: AI-Powered Features
+description: "Use AI in Loka with your own API key. Get lesson preparation help, real-time suggestions, and automated session feedback."
 ---
 
 # AI-Powered Features
