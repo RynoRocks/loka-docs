@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Loka Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Loka",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "문서",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Start Free Trial": {
+    "message": "무료 체험 시작",
+    "description": "Navbar item with label Start Free Trial"
+  },
+  "item.label.Log In": {
+    "message": "로그인",
+    "description": "Navbar item with label Log In"
+  }
+}

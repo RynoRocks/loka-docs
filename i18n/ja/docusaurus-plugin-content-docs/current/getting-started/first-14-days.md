@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Your First 14 Days
+title: 最初の14日間
 ---
 
 # はじめの14日間

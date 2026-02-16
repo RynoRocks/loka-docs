@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Loka Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Loka",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "ドキュメント",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Start Free Trial": {
+    "message": "無料で始める",
+    "description": "Navbar item with label Start Free Trial"
+  },
+  "item.label.Log In": {
+    "message": "ログイン",
+    "description": "Navbar item with label Log In"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Earnings & Payments
+title: 수익 및 결제
 ---
 
 # 수익 및 결제

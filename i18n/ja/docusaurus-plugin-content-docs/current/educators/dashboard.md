@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Dashboard Overview
+title: ダッシュボードの概要
 ---
 
 # ダッシュボードの概要

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Getting Started": {
+    "message": "시작하기",
+    "description": "The label for category 'Getting Started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Educators": {
+    "message": "교육자용",
+    "description": "The label for category 'For Educators' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Learners": {
+    "message": "학습자용",
+    "description": "The label for category 'For Learners' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Loka Creators": {
+    "message": "Loka Creator용",
+    "description": "The label for category 'For Loka Creators' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.FAQ": {
+    "message": "자주 묻는 질문",
+    "description": "The label for category 'FAQ' in sidebar 'docsSidebar'"
+  }
+}

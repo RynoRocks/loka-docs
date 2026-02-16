@@ -1,7 +1,7 @@
 ---
 slug: /
 sidebar_position: 1
-title: Welcome to Loka
+title: Lokaへようこそ
 ---
 
 # Lokaへようこそ

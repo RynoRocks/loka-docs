@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Create Your Free Trial Account
+title: 무료 체험 계정 만들기
 ---
 
 # 무료 체험 계정 만들기

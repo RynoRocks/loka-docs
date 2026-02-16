@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Lesson Materials & Recordings
+title: 레슨 자료 및 녹음
 ---
 
 # 수업 자료 및 녹음

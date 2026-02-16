@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Using the Living Canvas
+title: Living Canvas 사용법
 ---
 
 # Living Canvas 사용법

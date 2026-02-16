@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Pricing & Billing FAQ
+title: 요금 및 결제 FAQ
 ---
 
 # 가격 및 결제 FAQ

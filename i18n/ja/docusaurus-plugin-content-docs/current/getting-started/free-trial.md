@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Create Your Free Trial Account
+title: 無料トライアルアカウントの作成
 ---
 
 # 無料トライアルアカウントの作成

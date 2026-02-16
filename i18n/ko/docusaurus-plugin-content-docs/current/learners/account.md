@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Account Settings
+title: 계정 설정
 ---
 
 # 계정 설정

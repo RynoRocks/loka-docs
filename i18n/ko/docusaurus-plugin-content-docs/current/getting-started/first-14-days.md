@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Your First 14 Days
+title: 첫 14일
 ---
 
 # 처음 14일

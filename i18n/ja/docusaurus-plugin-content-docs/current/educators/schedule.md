@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Setting Up Your Schedule
+title: スケジュールの設定
 ---
 
 # スケジュールの設定

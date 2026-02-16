@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Booking Lessons
+title: 레슨 예약
 ---
 
 # 수업 예약

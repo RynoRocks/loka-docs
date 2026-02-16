@@ -1,0 +1,58 @@
+{
+  "link.title.Documentation": {
+    "message": "문서",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.Product": {
+    "message": "제품",
+    "description": "The title of the footer links column with title=Product in the footer"
+  },
+  "link.title.Company": {
+    "message": "회사 정보",
+    "description": "The title of the footer links column with title=Company in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "시작하기",
+    "description": "The label of footer link with label=Getting Started linking to /"
+  },
+  "link.item.label.For Educators": {
+    "message": "교육자용",
+    "description": "The label of footer link with label=For Educators linking to /educators/dashboard"
+  },
+  "link.item.label.For Learners": {
+    "message": "학습자용",
+    "description": "The label of footer link with label=For Learners linking to /learners/booking"
+  },
+  "link.item.label.For Loka Creators": {
+    "message": "Loka Creator용",
+    "description": "The label of footer link with label=For Loka Creators linking to /creators/overview"
+  },
+  "link.item.label.Loka Website": {
+    "message": "Loka 웹사이트",
+    "description": "The label of footer link with label=Loka Website linking to https://lokalingo.com"
+  },
+  "link.item.label.The Living Textbook": {
+    "message": "The Living Textbook",
+    "description": "The label of footer link with label=The Living Textbook linking to https://thelivingtextbook.lokalingo.com"
+  },
+  "link.item.label.Start Free Trial": {
+    "message": "무료 체험 시작",
+    "description": "The label of footer link with label=Start Free Trial linking to https://thelivingtextbook.lokalingo.com/start-free"
+  },
+  "link.item.label.About": {
+    "message": "소개",
+    "description": "The label of footer link with label=About linking to https://lokalingo.com/en/story"
+  },
+  "link.item.label.Contact": {
+    "message": "문의하기",
+    "description": "The label of footer link with label=Contact linking to https://lokalingo.com/en/contact"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "개인정보 보호정책",
+    "description": "The label of footer link with label=Privacy Policy linking to https://lokalingo.com/en/privacy"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Accent Language 株式会社. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

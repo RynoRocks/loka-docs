@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Managing Students
+title: 학생 관리
 ---
 
 # 학생 관리

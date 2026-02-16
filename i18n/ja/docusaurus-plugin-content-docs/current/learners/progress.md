@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Progress Tracking
+title: 進捗の確認
 ---
 
 # 進捗の追跡

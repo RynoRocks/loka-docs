@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Managing Educators & Learners
+title: 교육자 및 학습자 관리
 ---
 
 # 교육자 및 학습자 관리

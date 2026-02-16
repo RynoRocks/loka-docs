@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Earnings & Payments
+title: 収益と支払い
 ---
 
 # 収益と支払い

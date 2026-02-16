@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: AI-Powered Features
+title: AI 기능
 ---
 
 # AI 기반 기능

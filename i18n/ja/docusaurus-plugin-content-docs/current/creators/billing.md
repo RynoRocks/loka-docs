@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Billing & Subscriptions
+title: 請求とサブスクリプション
 ---
 
 # 課金とサブスクリプション

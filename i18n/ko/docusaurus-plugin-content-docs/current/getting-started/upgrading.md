@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Upgrading Your Plan
+title: 플랜 업그레이드
 ---
 
 # 플랜 업그레이드

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Managing Educators & Learners
+title: エデュケーターとラーナーの管理
 ---
 
 # エデュケーターとラーナーの管理

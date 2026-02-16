@@ -1,7 +1,7 @@
 ---
 slug: /
 sidebar_position: 1
-title: Welcome to Loka
+title: Loka에 오신 것을 환영합니다
 ---
 
 # Loka에 오신 것을 환영합니다

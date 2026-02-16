@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Platform Settings
+title: 플랫폼 설정
 ---
 
 # 플랫폼 설정

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Pricing & Billing FAQ
+title: 料金と請求に関するFAQ
 ---
 
 # 料金＆課金FAQ

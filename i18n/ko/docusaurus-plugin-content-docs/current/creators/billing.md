@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Billing & Subscriptions
+title: 결제 및 구독
 ---
 
 # 결제 및 구독

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Lesson Materials & Recordings
+title: レッスン教材と録音
 ---
 
 # レッスン教材と録音

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Loka Creator Overview
+title: Loka Creatorの概要
 ---
 
 # Loka Creatorの概要

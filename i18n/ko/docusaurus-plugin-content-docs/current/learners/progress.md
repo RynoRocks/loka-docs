@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Progress Tracking
+title: 학습 진도 확인
 ---
 
 # 진도 추적

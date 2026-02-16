@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Dashboard Overview
+title: 대시보드 개요
 ---
 
 # 대시보드 개요

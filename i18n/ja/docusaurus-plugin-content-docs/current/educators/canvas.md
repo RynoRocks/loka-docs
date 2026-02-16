@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Using the Living Canvas
+title: Living Canvasの使い方
 ---
 
 # Living Canvasの使い方

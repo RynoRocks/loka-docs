@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Getting Started": {
+    "message": "はじめに",
+    "description": "The label for category 'Getting Started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Educators": {
+    "message": "エデュケーター向け",
+    "description": "The label for category 'For Educators' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Learners": {
+    "message": "ラーナー向け",
+    "description": "The label for category 'For Learners' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.For Loka Creators": {
+    "message": "Loka Creator向け",
+    "description": "The label for category 'For Loka Creators' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.FAQ": {
+    "message": "よくある質問",
+    "description": "The label for category 'FAQ' in sidebar 'docsSidebar'"
+  }
+}

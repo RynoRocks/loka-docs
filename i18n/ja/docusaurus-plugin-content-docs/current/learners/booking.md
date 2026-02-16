@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Booking Lessons
+title: レッスンの予約
 ---
 
 # レッスンの予約

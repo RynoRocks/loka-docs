@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Managing Students
+title: 生徒の管理
 ---
 
 # 生徒の管理

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Technical FAQ
+title: 技術に関するFAQ
 ---
 
 # テクニカルFAQ
