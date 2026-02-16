@@ -46,6 +46,6 @@ Once you have signed up, follow the [Your First 14 Days](./getting-started/first
 
 ## About Loka
 
-Loka is built by **Accent Language 株式会社**, a language education company based in Tokyo, Japan. We built Loka because we needed it ourselves -- and we think you will find it useful too.
+Loka is built by **LokaLingo 株式会社**, a language education company based in Tokyo, Japan. We built Loka because we needed it ourselves -- and we think you will find it useful too.
 
 Have questions? [Contact us](https://lokalingo.com/en/contact) or check the [FAQ](./faq/pricing).
