@@ -29,6 +29,39 @@ const config: Config = {
     },
   },
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: { type: 'application/ld+json' },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'LokaLingo 株式会社',
+        url: 'https://lokalingo.com',
+        logo: 'https://docs.lokalingo.com/img/logo.png',
+        sameAs: [
+          'https://thelivingtextbook.lokalingo.com',
+          'https://docs.lokalingo.com',
+        ],
+      }),
+    },
+    {
+      tagName: 'script',
+      attributes: { type: 'application/ld+json' },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Loka Docs',
+        url: 'https://docs.lokalingo.com',
+        publisher: {
+          '@type': 'Organization',
+          name: 'LokaLingo 株式会社',
+        },
+        inLanguage: ['en-AU', 'ja', 'ko'],
+      }),
+    },
+  ],
+
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
@@ -53,6 +86,7 @@ const config: Config = {
         },
         blog: false,
         sitemap: {
+          lastmod: 'date',
           ignorePatterns: ['/search', '/ja/search', '/ko/search'],
         },
         theme: {
