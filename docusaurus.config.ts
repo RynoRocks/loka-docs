@@ -47,7 +47,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/loka-social-card.png',
+    image: 'img/logo.png',
     colorMode: {
       defaultMode: 'light',
       respectPrefersColorScheme: true,
