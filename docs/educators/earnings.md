@@ -54,7 +54,11 @@ Filter your earnings data to analyze specific periods:
 
 ## Payout Configuration
 
-Loka uses **Stripe Connect** for payouts:
+Loka supports multiple payout methods so you can receive your earnings in the way that works best for you.
+
+### Stripe Connect
+
+Loka uses **Stripe Connect** for direct payouts:
 
 1. Go to **Settings > Payments**
 2. Click **Connect with Stripe**
@@ -62,6 +66,26 @@ Loka uses **Stripe Connect** for payouts:
 4. Once connected, lesson payments flow directly to your Stripe account
 
 With Stripe Connect, payouts are processed automatically after each lesson payment. You can configure your payout schedule (daily, weekly, monthly) in your Stripe dashboard.
+
+### PayPal
+
+To receive payouts via PayPal:
+
+1. Go to **Settings > Payments**
+2. Enter your PayPal email address
+3. Payouts are sent to your PayPal account on the configured schedule
+
+### Wise (TransferWise)
+
+For international educators, **Wise** offers competitive exchange rates:
+
+1. Go to **Settings > Payments**
+2. Enter your Wise account details
+3. Payouts are sent in your preferred currency
+
+:::tip
+If you teach students across multiple countries, Wise typically offers the best exchange rates and lowest fees for international transfers.
+:::
 
 ## Loka Creator Subscription
 
@@ -92,7 +116,7 @@ This means your costs scale with your active student base. If a student takes a 
 
 Loka provides the data you need for tax reporting:
 
-- View your earnings history from the Management tab
+- Export your earnings history as a CSV from the Management tab
 - Filter by date range to match your tax period
 - All amounts are shown in your configured currency
 

@@ -16,7 +16,12 @@ Loka makes it easy to find available time slots, choose a teacher, and book less
 
 3. **Select a teacher** -- Pick from the available teachers for your chosen time slot. Each teacher's profile shows their specialties, languages spoken, and a short bio.
 
-4. **Confirm your booking** -- Review the lesson details and click **Confirm**. You will receive a confirmation email with all the details, including any join links for online lessons.
+4. **Choose a location type** -- Select how you want to take the lesson:
+   - **Online** -- via Zoom or your school's preferred video platform
+   - **In-person** -- at a physical location set by your school
+   - **Hybrid** -- some schools offer both options for the same lesson
+
+5. **Confirm your booking** -- Review the lesson details and click **Confirm**. You will receive a confirmation email with all the details, including any join links for online lessons.
 
 ## Booking Rules
 
@@ -34,7 +39,7 @@ You can view all upcoming and past lessons from the **My Bookings** section of y
 
 - Date, time, and duration
 - Teacher name
-- Location (online via Zoom)
+- Location type (online/in-person)
 - Lesson status (upcoming, completed, cancelled)
 
 ## Cancelling a Booking

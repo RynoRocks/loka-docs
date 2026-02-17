@@ -20,24 +20,47 @@ Your current level is visible on your dashboard and determines:
 
 As you progress, your educator can update your level to reflect your growth. Level changes are logged so you can look back and see your journey.
 
-## Session History
+## Structured Curriculum Levels
 
-Your dashboard keeps a complete record of every lesson you have completed. For each session, you can review:
+Some schools use Loka's structured curriculum feature, which organizes learning into defined stages. Each level includes:
 
-- **Canvas notes** -- your teacher's notes from the lesson, including key discussion points and whiteboard content.
-- **Keywords & vocabulary** -- new words and phrases introduced during the session, with definitions and examples.
-- **CIPs (Correct & Incorrect Phrases)** -- corrections from the lesson, showing what you said alongside the improved version.
-- **ARPs (Active Recall Pairs)** -- AI-generated review pairs to test your recall of lesson content.
-- **Tasks** -- any homework or follow-up activities assigned by your teacher.
+- **Learning objectives** -- what you are expected to achieve at this level.
+- **Required lessons** -- a set number of lessons or topics to complete before advancing.
+- **Assessments** -- periodic checks to confirm readiness for the next level.
 
-See [Lesson Materials & Recordings](/learners/materials) for more detail on accessing and downloading your session content.
+Your progress through the curriculum is shown as a progress bar on your dashboard. When you complete all requirements for a level, your educator can advance you to the next stage.
+
+## Reward Points
+
+You earn reward points for positive learning behaviors, such as:
+
+- Completing lessons
+- Finishing homework tasks on time
+- Achieving milestones (e.g., 10 lessons completed)
+- Consistent attendance streaks
+
+Points accumulate over time and are displayed on your dashboard. Some schools use points to unlock rewards or recognition -- check with your educator for details.
 
 ## Credits
 
-Credits are used to book lessons on Loka. Your learner seat is active as long as you are booking and paying for lessons. When you pay for a lesson, your seat is automatically renewed for the billing period.
+Credits are the currency you use to book lessons in Loka. Depending on your school's setup:
 
-You can view your lesson history and upcoming bookings from your dashboard.
+- **Credit-based booking** -- each lesson costs a certain number of credits. You purchase or receive credit packs, and credits are deducted when you book.
+- **Subscription-based booking** -- your plan includes a set number of lessons per period. Credits may still be used for extra lessons beyond your plan limit.
+
+You can view your credit balance on your dashboard. When credits are running low, you will see a reminder to top up.
+
+## Badges
+
+Badges recognize specific achievements and milestones. Examples include:
+
+- **First Lesson** -- completed your first lesson on Loka.
+- **Streak Master** -- attended lessons consistently for a set number of weeks.
+- **Vocabulary Builder** -- reviewed a certain number of keywords.
+- **Level Up** -- advanced to a new proficiency level.
+
+Earned badges appear on your profile and dashboard. They are a fun way to see your accomplishments at a glance.
 
 :::tip
-Review your lesson materials regularly. Revisiting Canvas notes and practising ARPs between sessions is one of the most effective ways to retain what you have learned.
+Check your dashboard regularly to stay on top of your progress. Seeing how far you have come is a great motivator to keep going.
 :::

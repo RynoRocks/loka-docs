@@ -43,7 +43,7 @@ As a Loka Creator, you are responsible for:
 - Configure booking rules, timezone, and currency
 - Set up integrations (Stripe, Zoom, Asana, and more)
 - Customize email templates and notifications
-- Customize school branding (name, logo)
+- Configure white-labelling options
 
 ## Accessing the Admin Panel
 
