@@ -20,6 +20,7 @@ const sidebars: SidebarsConfig = {
         'educators/dashboard',
         'educators/schedule',
         'educators/canvas',
+        'educators/canvas-content-guide',
         'educators/ai-features',
         'educators/students',
         'educators/earnings',
