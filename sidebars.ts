@@ -41,6 +41,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'creators/overview',
         'creators/managing-users',
+        'creators/services',
         'creators/billing',
         'creators/settings',
       ],

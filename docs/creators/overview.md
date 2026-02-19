@@ -59,5 +59,6 @@ If you are also teaching lessons yourself, the admin panel and educator dashboar
 ## Next Steps
 
 - [Managing Educators & Learners](./managing-users) -- learn how to add and manage your team.
+- [Services, Locations & Packages](./services) -- set up lesson types and connect them to educators and locations.
 - [Billing & Subscriptions](./billing) -- understand the pricing and seat model.
 - [Platform Settings](./settings) -- configure your school's preferences.
