@@ -44,6 +44,8 @@ You can also highlight text and click the **Keyword** or **Topic Tag** buttons i
 
 For a complete walkthrough of the syntax, toolbar buttons, and workflow, see [Creating Content: Keywords, CIPs & ARPs](/educators/canvas-content-guide).
 
+![Canvas editor with curly bracket syntax and toolbar](/img/educators/canvas-raw-with-toolbar.png)
+
 ### Active Recall Pairs (ARPs)
 
 ARPs are question-answer pairs that reinforce learning through active recall:
@@ -64,6 +66,8 @@ Mark language as **correct** or **incorrect** during the lesson:
 Correction pairs are the foundation of the Living Textbook methodology. They capture real moments from conversation and turn them into personalized learning material.
 
 Learn more: [Creating Correction Pairs](/educators/canvas-content-guide#creating-correction-pairs-cips)
+
+![Canvas in preview mode showing styled keywords, correction pairs, and AI-generated ARPs](/img/educators/canvas-preview-mode.png)
 
 ### Auto-Save
 
