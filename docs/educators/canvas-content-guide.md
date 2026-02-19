@@ -55,13 +55,13 @@ Topic tags organize your canvas into sections. At least one topic tag is require
 Make sure every opening bracket has a matching closing bracket. If brackets are mismatched, Preview will show a warning and won't proceed.
 :::
 
-<!-- SCREENSHOT: Canvas editor showing raw text with {keyword}, {multi word keyphrase}, and {{Topic Tag}} syntax before preview -->
+![Canvas editor showing curly bracket syntax and toolbar](/img/educators/canvas-raw-with-toolbar.png)
 
 ## The Canvas Toolbar
 
 When a session is active (status: "booked"), a row of buttons appears below the canvas editor. These buttons help you format content without typing brackets manually.
 
-<!-- SCREENSHOT: Full toolbar row showing all buttons from left to right -->
+![Canvas toolbar buttons](/img/educators/canvas-toolbar.png)
 
 ### Formatting Buttons
 
@@ -75,7 +75,6 @@ When a session is active (status: "booked"), a row of buttons appears below the 
 
 **How to use:** Highlight text in the editor, then click the desired button. The text is wrapped in the appropriate brackets automatically.
 
-<!-- SCREENSHOT: Selecting a word in the editor, then clicking the Keyword button, showing before/after -->
 
 ### Session Control Buttons
 
@@ -97,7 +96,6 @@ If you have an [AI provider configured](/educators/ai-features), two additional 
 | **ARP Count dropdown** (3 / 5 / 7 / 10) | Choose how many ARPs the AI should generate |
 | **AI button** | Generates ARPs from your canvas content using AI |
 
-<!-- SCREENSHOT: The AI button and ARP count dropdown at the right end of the toolbar -->
 
 ## Creating Correction Pairs (CIPs)
 
@@ -109,7 +107,7 @@ Correction pairs capture real mistakes from conversation and pair them with the 
 2. In the canvas, correction pairs are entered as structured blocks with an **incorrect phrase** and a **correct phrase**
 3. The system visually distinguishes them (incorrect is marked, correct is highlighted)
 
-<!-- SCREENSHOT: A correction pair on the canvas showing incorrect vs correct phrase -->
+![Correction pairs table from a completed session](/img/educators/correction-pairs.png)
 
 :::tip
 Capture correction pairs in real time as they happen in conversation. Don't wait until after the lesson -- the most valuable corrections come from authentic speaking moments.
@@ -149,7 +147,7 @@ This is the faster method. AI analyzes your entire canvas -- notes, keywords, ke
 6. AI generates ARPs based on your canvas content
 7. Generated ARPs appear on the canvas and can be edited or removed with **Undo**
 
-<!-- SCREENSHOT: Canvas before clicking AI button (with keywords and notes), then after (with generated ARPs appended) -->
+![Canvas in preview mode showing AI-generated ARPs, styled keywords, and correction pairs](/img/educators/canvas-preview-mode.png)
 
 :::note
 AI-generated ARPs use your [configured AI provider](/educators/ai-features) (Anthropic Claude, OpenAI, or OpenRouter). The keywords and keyphrases you mark with curly brackets directly influence the quality and relevance of generated ARPs -- the more you tag, the better the output.
@@ -178,7 +176,11 @@ Clicking **Preview** (eye icon) transforms your raw text into a styled view:
 3. The editor becomes read-only so you can review
 4. Click **Cancel Preview** (white eye icon) to return to editing
 
-<!-- SCREENSHOT: Side-by-side of raw editor text vs previewed/styled version -->
+The raw editor text (left) transforms into a styled preview (right) when you click Preview:
+
+![Canvas in raw editing mode](/img/educators/canvas-raw-with-toolbar.png)
+
+![Canvas in preview mode with styled elements](/img/educators/canvas-preview-mode.png)
 
 ### Wrap (End Session)
 
