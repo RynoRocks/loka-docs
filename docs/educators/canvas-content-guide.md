@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3.5
-title: "Creating Content: Keywords, CIPs & ARPs"
+title: "Creating Content: Keywords, Corrections & ARPs"
 description: "Step-by-step guide to using curly bracket syntax, toolbar buttons, correction pairs, and AI-generated ARPs on the Living Canvas."
 ---
 
-# Creating Content: Keywords, CIPs & ARPs
+# Creating Content: Keywords, Corrections & ARPs
 
 This guide covers the hands-on workflow for creating lesson content on the [Living Canvas](/educators/canvas). You'll learn the curly bracket syntax for marking keywords and topics, how to use the toolbar buttons, and how to generate ARPs with AI.
 
@@ -97,7 +97,7 @@ If you have an [AI provider configured](/educators/ai-features), two additional 
 | **AI button** | Generates ARPs from your canvas content using AI |
 
 
-## Creating Correction Pairs (CIPs)
+## Creating Correction Pairs
 
 Correction pairs capture real mistakes from conversation and pair them with the correct version. They are the foundation of the Living Textbook methodology.
 
@@ -113,7 +113,7 @@ Correction pairs capture real mistakes from conversation and pair them with the 
 Capture correction pairs in real time as they happen in conversation. Don't wait until after the lesson -- the most valuable corrections come from authentic speaking moments.
 :::
 
-### What Happens to CIPs
+### What Happens to Correction Pairs
 
 When you **Wrap** the lesson, all correction pairs are:
 

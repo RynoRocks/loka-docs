@@ -42,7 +42,7 @@ Record important vocabulary and phrases using **curly bracket syntax** directly 
 
 You can also highlight text and click the **Keyword** or **Topic Tag** buttons in the toolbar below the editor.
 
-For a complete walkthrough of the syntax, toolbar buttons, and workflow, see [Creating Content: Keywords, CIPs & ARPs](/educators/canvas-content-guide).
+For a complete walkthrough of the syntax, toolbar buttons, and workflow, see [Creating Content: Keywords, Corrections & ARPs](/educators/canvas-content-guide).
 
 ![Canvas editor with curly bracket syntax and toolbar](/img/educators/canvas-raw-with-toolbar.png)
 
@@ -56,7 +56,7 @@ ARPs are question-answer pairs that reinforce learning through active recall:
 
 Learn more: [Creating ARPs with AI](/educators/canvas-content-guide#ai-generated-arps) | [AI features setup](/educators/ai-features)
 
-### Correction Pairs (CIPs)
+### Correction Pairs
 
 Mark language as **correct** or **incorrect** during the lesson:
 
@@ -65,7 +65,7 @@ Mark language as **correct** or **incorrect** during the lesson:
 
 Correction pairs are the foundation of the Living Textbook methodology. They capture real moments from conversation and turn them into personalized learning material.
 
-Learn more: [Creating Correction Pairs](/educators/canvas-content-guide#creating-correction-pairs-cips)
+Learn more: [Creating Correction Pairs](/educators/canvas-content-guide#creating-correction-pairs)
 
 ![Canvas in preview mode showing styled keywords, correction pairs, and AI-generated ARPs](/img/educators/canvas-preview-mode.png)
 

@@ -31,15 +31,34 @@ const config: Config = {
 
   headTags: [
     {
+      tagName: 'link',
+      attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' },
+    },
+    {
       tagName: 'script',
       attributes: { type: 'application/ld+json' },
       innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: 'LokaLingo 株式会社',
+        legalName: 'Accent Language 株式会社',
         url: 'https://lokalingo.com',
-        logo: 'https://docs.lokalingo.com/img/logo.png',
+        logo: {
+          '@type': 'ImageObject',
+          url: 'https://docs.lokalingo.com/img/logo.png',
+        },
+        description: 'A language education company based in Tokyo, Japan. Builders of Loka, a learning management system for language educators.',
+        address: {
+          '@type': 'PostalAddress',
+          addressCountry: 'JP',
+          addressLocality: 'Tokyo',
+        },
         sameAs: [
+          'https://lokalingo.com',
           'https://thelivingtextbook.lokalingo.com',
           'https://docs.lokalingo.com',
         ],
@@ -53,6 +72,7 @@ const config: Config = {
         '@type': 'WebSite',
         name: 'Loka Docs',
         url: 'https://docs.lokalingo.com',
+        description: 'Official documentation for Loka, a learning management system for language educators.',
         publisher: {
           '@type': 'Organization',
           name: 'LokaLingo 株式会社',

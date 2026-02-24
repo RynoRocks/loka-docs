@@ -5,6 +5,32 @@ title: Welcome to Loka
 description: "Loka is a learning management system for language educators. Manage students, deliver lessons, and get paid from one platform."
 ---
 
+<head>
+  <script type="application/ld+json">
+    {JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Loka",
+      "applicationCategory": "EducationalApplication",
+      "operatingSystem": "Web",
+      "description": "A learning management system for language educators. Manage students, deliver lessons, and get paid from one platform.",
+      "url": "https://thelivingtextbook.lokalingo.com",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "14-day free trial, no credit card required",
+        "url": "https://thelivingtextbook.lokalingo.com/start-free"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "LokaLingo 株式会社"
+      },
+      "inLanguage": ["en-AU", "ja", "ko"]
+    })}
+  </script>
+</head>
+
 # Welcome to Loka
 
 Loka is a learning management system built for language educators who want to run their teaching business on their own terms. Whether you teach one-on-one conversation lessons, group classes, or anything in between, Loka gives you the tools to manage your students, deliver sessions, and get paid -- all from one platform.
